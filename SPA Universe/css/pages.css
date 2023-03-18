@@ -1,0 +1,23 @@
+
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 9.3rem 10.0rem;
+  }
+  
+  h1 {
+    color: #f1f1f1;
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 1.6rem;
+  }
+  
+  p {
+    color: #f1f1f1;
+    font-weight: 400;
+    font-size: 1.2rem;
+    max-width: 60.0rem;
+  }
+
